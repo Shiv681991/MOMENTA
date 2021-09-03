@@ -6,8 +6,8 @@ This is the repo for "MOMENTA: A Multimodal Framework for Detecting Harmful Meme
 ---Readme for MOMENTA system:---
 
 ----setting up dependencies----
-if CUDA_version == "10.0":
-    torch_version_suffix = "+cu100"
+if CUDA_version == "10.0":<br>
+    torch_version_suffix = "+cu100"<br>
 elif CUDA_version == "10.1":
     torch_version_suffix = "+cu101"
 elif CUDA_version == "10.2":
